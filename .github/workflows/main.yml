@@ -70,5 +70,5 @@ jobs:
         path: |
           ${{ github.workspace }}/build/bootloader/bootloader.bin
           ${{ github.workspace }}/build/partition_table/partition-table.bin
-          ${{ github.workspace }}/build/ion1-noBT.bin
+          ${{ github.workspace }}/build/ion1.bin
           ${{ github.workspace }}/sdkconfig
